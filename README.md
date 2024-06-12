@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hello! I am Rian Karlo Punzalan 👋 ✌
 
+Full Stack Development Student from Vanier College. 🖥
+
+Proficient in Java, C# and have experience in C/C++, Visual Studio, React, JavaScript, Python and Android Development (Java).
+
+-
+-
+-
+
+## *Repository is currently under development. 🛠😅
+but feel free to look around! 
 <!--
 **rianpunzalan/rianpunzalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
