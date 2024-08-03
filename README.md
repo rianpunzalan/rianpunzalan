@@ -2,7 +2,7 @@
 
 Full Stack Development Student from Vanier College. 🖥
 
-Proficient in Java, C# and have experience in C/C++, Visual Studio, React, JavaScript, Python and Android Development (Java).
+Proficient in Java, React, JavaScript, NextJS, Vercel, C# and have experience in C/C++, Visual Studio, Python and Android Development (Java).
 
 -
 -
