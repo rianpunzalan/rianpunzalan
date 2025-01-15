@@ -1,6 +1,6 @@
 ## Hello! I am Rian Karlo Punzalan 👋 ✌
 
-Full Stack Development Student from Vanier College. 🖥
+Full Stack Developer. 🖥
 
 Proficient in Java, React, JavaScript, NextJS, Vercel, C# and have experience in C/C++, Visual Studio, Python and Android Development (Java).
 
